@@ -1,0 +1,13 @@
+name: SimpleBasicPlugin
+version: ${project.version}
+main: oceanmonster.simplebasicplugin.SimpleBasicPlugin
+api-version: 1.16
+authors: [ LAKRESMIGO ]
+description: Simple Basic Plugin Only For Testing and Exploring
+website: oceanmonster.net
+commands:
+  enderchest:
+    aliases:
+      - gizlisandık
+      - ec
+    description: Size özel sandık(enderchest)
